@@ -139,7 +139,7 @@ body{
     margin: 2rem auto;
 }
 
-@media(max-width: 400px){
+@media(max-width: 450px){
     .conteudo-principal-img{
         display: none;
     }
