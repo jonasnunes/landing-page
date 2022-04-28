@@ -26,3 +26,5 @@
 <p><strong>Eu mesmo!</strong> Jonas Nunes</p>
 <p>Se alguém tiver alguma ideia de projeto e queira me chamar para participar, estou à disposição. Será um prazer compartilhar experiências!</p>
 Design criado pela &copy; Rafa Ballerini
+
+<p>Acesse o canal da Rafa <a href="https://www.youtube.com/c/rafaellaballerini">clicando aqui</a></p>
